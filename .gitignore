@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# VectorDB
+# Common vector DB folders
+vectordb/
+vector_db/
+chroma/
+chromadb/
+
+# PDFFiles
+data/vector_store/
