@@ -227,3 +227,9 @@ chromadb/
 
 # PDFFiles
 data/vector_store/
+
+
+# Sensitive API keys and credentials
+.env
+.env.local
+.env.*.local
